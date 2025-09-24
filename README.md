@@ -33,6 +33,10 @@ can **add, remove, drag, resize, and configure widgets** to visualize:
 ## 📦 Installation
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/<your-username>/llm-monitoring-dashboard.git
-cd llm-monitoring-dashboard
+git clone https://github.com/Shrejal-Joshi/LLM-dashboard.git
+
+### 2. Installation
+npm install
+
+### 3. Running
+npm run dev
